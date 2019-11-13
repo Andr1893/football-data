@@ -3,7 +3,7 @@
 
 <ul>
   <li>python Library</li>
-  <li><a href="https://www.football-data.org/documentation/quickstart">Documentation</a></li>
+  <li><a href="https://www.football-data.org">football-data</a></li>
   <li><a href="https://www.football-data.org/documentation/quickstart">Documentation</a></li>
 </ul>
 
